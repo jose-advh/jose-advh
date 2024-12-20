@@ -3,12 +3,10 @@
 <h2>Socials</h2>
 <p>
   <a href="mailto:josearmandodiazhernandez1@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/josé-diaz-3074b9316" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/josé-diaz-3074b9316](https://www.linkedin.com/in/josé-díaz-3074b9316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://twitter.com/thmercurio" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://instagram.com/jose.advh" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
-
-<img align ="right" src = "https://media.discordapp.net/attachments/1278545580402016327/1319797779396034621/wonder.png?ex=676744f7&is=6765f377&hm=53bea62d1a1a2f1ca4551eb455f44f44e89b2707445733276cd94b2940db2e04&=&format=webp&quality=lossless&width=427&height=427" width="250" height="250">
 
 🌟 <strong>Passionate about programming</strong> <br>
 💡 Interests: Artificial Intelligence, web development, and mobile applications. <br>
