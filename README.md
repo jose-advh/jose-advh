@@ -8,7 +8,7 @@
   <a href="https://instagram.com/jose.advh" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
 
-<img align ="right" src = "https://raw.githubusercontent.com/pratik-kale20/pratik-kale20/main/linux.png" width="250" height="250">
+<img align ="right" src = "https://media.discordapp.net/attachments/1278545580402016327/1319797779396034621/wonder.png?ex=676744f7&is=6765f377&hm=53bea62d1a1a2f1ca4551eb455f44f44e89b2707445733276cd94b2940db2e04&=&format=webp&quality=lossless&width=427&height=427" width="250" height="250">
 
 🌟 <strong>Passionate about programming</strong> <br>
 💡 Interests: Artificial Intelligence, web development, and mobile applications. <br>
