@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=Hey+I'm+Jose!;I'm+a+CS+student.;I+love+coding...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=4500&background=E4E4E400&lines=Hey+I'm+Jose!;I'm+a+CS+student.;I+love+coding...)](https://git.io/typing-svg)
 
 <h2>Socials</h2>
 <p>
