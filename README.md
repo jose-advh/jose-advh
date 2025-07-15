@@ -7,9 +7,9 @@
 ```diff
 Hi, I'm José Díaz :)
 
-+ Frontend Software Engineer
-I develop user-centered digital experiences by combining design, functionality,
-and usability to create accessible and effective interfaces.
++ Software Developer - AI & Web Developer
+As a full-stack and AI developer, I build robust digital experiences by integrating front-end usability,
+back-end performance, and intelligent models to deliver accessible and impactful solutions
 ```
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josearmandodiazh3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-d%C3%ADaz-3074b9316/)
